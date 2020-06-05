@@ -1,4 +1,9 @@
-# test phase
+# -*- coding:utf-8 -*-
+#@Project: NestFuse for image fusion
+#@Author: Li Hui, Jiangnan University
+#@Email: hui_li_jnu@163.com
+#@File : test.py
+
 import os
 import torch
 from torch.autograd import Variable

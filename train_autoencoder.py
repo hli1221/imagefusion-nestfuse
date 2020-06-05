@@ -1,5 +1,8 @@
-# Training a NestFuse network
-# auto-encoder
+# -*- coding:utf-8 -*-
+#@Project: NestFuse for image fusion
+#@Author: Li Hui, Jiangnan University
+#@Email: hui_li_jnu@163.com
+#@File : train_autoencoder.py
 
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
