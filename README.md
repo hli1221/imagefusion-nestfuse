@@ -1,6 +1,6 @@
 # NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models
 
-IEEE Trans. Instrumentation and Measurement, 2020
+IEEE Transactions on Instrumentation and Measurement, 2020
 
 ## Platform
 Python 3.7  
@@ -31,7 +31,21 @@ In our fusion strategy, we focus on two types of features: spatial attention mod
 ## NestFuse for RGBT visual object tracking
 In this experiment, we choose SiamRPN++ \cite{li2019siamrpn++} as the base tracker and the fusion strategy proposed in this paper is applied to do the feature-level fusion. The SiamRPN++ is based on deep learning and achieves the state-of-the-art tracking performance in 2019.
 
-<img src="https://github.com/hli1221/imagefusion-nestfuse/blob/master/figures/tracking_results-01.png" width="600">
+![](https://github.com/hli1221/imagefusion-nestfuse/blob/master/figures/tracking_results-01.png)
 
+
+If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
+
+# Citation
+
+```
+@article{li2020mdlatlrr,
+ author = {Li, Hui and Wu, Xiao-Jun and Durrani, Tariq},
+ title = {NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models},
+ year = {2020},
+ journal = {IEEE Transactions on Instrumentation and Measurement},
+ publisher={IEEE}
+}
+```
 
 
