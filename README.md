@@ -43,8 +43,9 @@ If you have any question about this code, feel free to reach me(hui_li_jnu@163.c
 ```
 @article{li2020nestfuse,
  author = {Li, Hui and Wu, Xiao-Jun and Durrani, Tariq},
- title = {NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models},
+ title = {{NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models}},
  year = {2020},
+ note = {doi: 10.1109/TIP.2020.2975984},
  journal = {IEEE Transactions on Instrumentation and Measurement},
  publisher={IEEE}
 }
