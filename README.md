@@ -2,7 +2,7 @@
 
 IEEE Transactions on Instrumentation and Measurement (Early Access), 2020
 - [IEEEXplore](https://ieeexplore.ieee.org/document/9127964) 
-- [arXiv]
+- [arXiv](https://arxiv.org/abs/2007.00328)
 
 ## Platform
 Python 3.7  
