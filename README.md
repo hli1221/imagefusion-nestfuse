@@ -8,6 +8,11 @@ IEEE Transactions on Instrumentation and Measurement (Early Access), 2020
 Python 3.7  
 Pytorch >=0.4.1  
 
+## Analysis metrics
+
+In "analysis_metrics_in_paper", seven metrics are included which were utilized in our paper.
+
+
 ## Fusion framework
 
 <img src="https://github.com/hli1221/imagefusion-nestfuse/blob/master/figures/framework_test-01.png" width="600">
