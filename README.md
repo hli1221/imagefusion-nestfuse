@@ -6,7 +6,7 @@ IEEE Transactions on Instrumentation and Measurement (Early Access), 2020
 
 ## Platform
 Python 3.7  
-Pytorch 0.4.1  
+Pytorch >=0.4.1  
 
 ## Fusion framework
 
