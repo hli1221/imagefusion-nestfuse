@@ -15,6 +15,8 @@ In "analysis_metrics_in_paper", seven metrics are included which were utilized i
 
 ## Fusion framework
 
+[MS-COCO 2014](http://images.cocodataset.org/zips/train2014.zip) (T.-Y. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan, P. Dollar, and C. L. Zitnick. Microsoft coco: Common objects in context. In ECCV, 2014. 3-5.) were utilized to train our auto-encoder network.
+
 <img src="https://github.com/hli1221/imagefusion-nestfuse/blob/master/figures/framework_test-01.png" width="600">
 
 
