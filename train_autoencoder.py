@@ -40,7 +40,9 @@ def train(i, original_imgs_path):
 	# nest_model = FusionNet_gra()
 	input_nc = 1
 	output_nc = 1
-	deepsupervision = False  # true for deeply supervision
+	# true for deeply supervision
+	# In our paper, deeply supervision strategy was not used.
+	deepsupervision = False
 	nb_filter = [64, 112, 160, 208, 256]
 
 	nest_model = NestFuse_autoencoder(nb_filter, input_nc, output_nc, deepsupervision)

@@ -2,9 +2,10 @@
 class args():
 	# training args
 	epochs = 2  #"number of training epochs, default is 2"
-	batch_size = 1  #"batch size for training, default is 4"
-	# dataset = "/data/Disk_B/MSCOCO2014/train2014/"  # the dataset path in your computer
-	dataset = r'F:\database\MS-COCO2014\train2014'
+	batch_size = 4  #"batch size for training, default is 4"
+	# the COCO dataset path in your computer
+	# URL: http://images.cocodataset.org/zips/train2014.zip
+	dataset = "/data/Disk_B/MSCOCO2014/train2014/"
 	HEIGHT = 256
 	WIDTH = 256
 
