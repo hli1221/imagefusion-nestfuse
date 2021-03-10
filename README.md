@@ -1,6 +1,6 @@
 # NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models
 
-[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu, Tariq S. Durrani  
+[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu*, Tariq S. Durrani  
 IEEE Transactions on Instrumentation and Measurement, Volume: 69, issue: 12, pp. 9645–9656, Dec. 2020.  
 - [IEEEXplore](https://ieeexplore.ieee.org/document/9127964) 
 - [arXiv](https://arxiv.org/abs/2007.00328)
